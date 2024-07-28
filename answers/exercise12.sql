@@ -1,0 +1,3 @@
+SELECT *
+FROM myNEWDB.students
+ORDER By City DESC;

@@ -1,0 +1,2 @@
+ALTER TABLE myNewDB.users
+DROP COLUMN Birthday;

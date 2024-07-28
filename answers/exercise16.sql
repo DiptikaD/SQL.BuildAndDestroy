@@ -1,0 +1,2 @@
+UPDATE MYNEWDB.STUDENTS
+SET City = 'Edinburgh';

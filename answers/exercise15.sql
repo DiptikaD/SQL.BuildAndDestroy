@@ -1,0 +1,3 @@
+SELECT *
+FROM MyNEWDB.Students
+WHERE PostalCode IS NOT NULL;
